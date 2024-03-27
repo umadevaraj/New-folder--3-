@@ -2,12 +2,12 @@
     margin: 0;
     padding: 0;
     font-family: 'poppins', sans-serif;
-    background: gray;
+    background: rgb(98, 59, 59);
 }
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: url(images/cofe.png);
+    background-image: url("images/cofe.png");
     background-position: center;
     background-size: cover;
     position: relative;
