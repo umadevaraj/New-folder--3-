@@ -7,7 +7,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: url("images/cofe.png");
+    background-image: url("../assets/images/cafe.png");
     background-position: center;
     background-size: cover;
     position: relative;
