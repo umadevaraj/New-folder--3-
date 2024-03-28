@@ -7,13 +7,13 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: url("../assets/images/cafe.png");
+    background-image: url("../images/cafe.png");
     background-position: center;
     background-size: cover;
     position: relative;
 }
 .logo {
-    background: url("assets/images/logo.png");
+    background: url("../assets/images/logo.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -28,7 +28,7 @@ nav{
     justify-content: space-between;
     align-items: center;
 }
-.nav img{
+nav img{
     width: 150px;
 }
 .nav-links{
