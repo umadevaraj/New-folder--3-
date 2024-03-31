@@ -2,9 +2,9 @@
 
 This is my first marketing website for Cafe Westoe. This is my friends Sri Lankan Restaurant. People can enjoy variety of food collection drinks which is freshly made everyday.
 
-![alt cafe](images/cafe.png)
+![Cafe Westoe](/assets/images/cafe.png)
 
-## our Menu
+## Our Menu
 Come and Enjoy our variour range of food collection. Spicy, non-spicy and Vegan according to your choice of taste.
 
 ### Breakfast 
@@ -37,7 +37,7 @@ Come and Enjoy our variour range of food collection. Spicy, non-spicy and Vegan 
     10. Cans
     11. Fruitshoot
     12. Water
-     
+
 #### About Us
 Cafe Westoe is traditional Sri Lankan restaurant launched in 1995.
 
