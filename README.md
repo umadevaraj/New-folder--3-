@@ -4,10 +4,12 @@ This is my first marketing website for Cafe Westoe. This is my friends Sri Lanka
 
 ![Cafe Westoe](/assets/images/cafe.png)
 
-## Our Menu
-Come and Enjoy our variour range of food collection. Spicy, non-spicy and Vegan according to your choice of taste.
+## *Our Menu*
+Come and Enjoy our various range of food collection. Spicy, non-spicy and Vegan according to your choice of taste.
 
-### Breakfast 
+### *Breakfast* 
+Morning breakfasts are served with love and care.
+
     English and Sri Lankan
     Large Breakfast 
     Small Breakfast
@@ -17,14 +19,18 @@ Come and Enjoy our variour range of food collection. Spicy, non-spicy and Vegan 
     Porridge
     Omelette
 
-### Lunch 
+### *Lunch* 
+Special lunch menu is also available to choose for the day!
+
 - English and Sri Lankan 
 - Soup and a Sandwich 
 - Cheesy Paratha Wrap 
 - Spicy Devilled Sausages 
 - Daily Specials 
 
-### Drinks
+### *Drinks*
+Special drinks are Traditional drinks are available for the day and according to the season.
+
     1. Latte 
     2. Cappuccino 
     3. Americano 
