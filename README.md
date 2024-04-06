@@ -2,7 +2,8 @@
 
 This is my first marketing website for Cafe Westoe. This is my friends Sri Lankan Restaurant. People can enjoy variety of food collection drinks which is freshly made everyday.
 
-![Cafe Westoe](/assets/images/cafe.png)
+
+![Cafe Westoe](/assets/images/cafe.jpg)
 
 ## *Our Menu*
 Come and Enjoy our various range of food collection. Spicy, non-spicy and Vegan according to your choice of taste.
